@@ -7,10 +7,6 @@ Jerry Hamlet: *Señor UI Engineer*
 [linkedin:
 http://www.linkdedin.com/in/jerryhamlet](http://www.linkdedin.com/in/jerryhamlet)
 
-<style>
-    h2 { color: #f60; }
-</style>
-
 Summary
 -------
 
