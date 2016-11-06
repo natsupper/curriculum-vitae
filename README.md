@@ -75,10 +75,12 @@ Experience
 Education
 ---------
 
-**M.S. Physics** — _San Jose State University_ 
-Thesis: fingerprint scanner using a holographic optical element.
+#### M.S. Physics — _San Jose State University_
 
-**B.S. Physics** — _Université Pierre et Marie Curie (Paris VI)_ 
+> Thesis: fingerprint scanner using a holographic optical element.
+
+#### B.S. Physics — _Université Pierre et Marie Curie (Paris VI)_
+
 Additional experience, education, and publications available on
 [linkedin](https://www.linkedin.com/pub/natacha-supper/1/2b/728), or upon
 request.
