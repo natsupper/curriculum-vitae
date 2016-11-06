@@ -5,7 +5,7 @@
   "scripts": {
     "build": "./bin/build run",
     "watch": "./bin/build -w run",
-    "serve": "./node_modules/.bin/list ./site",
+    "serve": "./node_modules/.bin/list ./",
     "start": "npm run watch && npm run serve"
   },
   "repository": {
