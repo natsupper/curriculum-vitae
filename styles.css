@@ -1,0 +1,99 @@
+html,
+body {
+  font-family: verdana;
+  font-size: 9pt;
+  margin: 0;
+  height: 100%;
+}
+#main {
+  display: flex;
+  width: 8.5in;
+  padding: 0.125in 0.125in;
+}
+#main #sidebar {
+  margin-top: 32pt;
+  min-width: 2in;
+  max-width: 2in;
+  background-color: #0072bc;
+}
+#main #content {
+  margin: 19pt 0 0 0.125in;
+}
+#main h1 {
+  position: absolute;
+  left: 0.125in;
+  top: 0.5pt;
+  width: 2in;
+  text-align: center;
+}
+#main h1 strong {
+  display: block;
+  text-transform: lowercase;
+  font-size: 32pt;
+  line-height: 32pt;
+  font-weight: bold;
+  width: 2in;
+  letter-spacing: 2.5pt;
+}
+#main h1 strong:nth-child(1) {
+  text-indent: 10pt;
+  letter-spacing: 6pt;
+  color: #0072bc;
+  text-shadow: 0 0 5pt rgba(255, 255, 255, 0.5);
+}
+#main h1 strong:nth-child(2) {
+  color: #fff;
+  margin-top: -2pt;
+}
+#main h1 em {
+  display: none;
+}
+#main h1 + p {
+  position: absolute;
+  left: 0.125in;
+  top: 1in;
+  width: 2in;
+  text-align: center;
+}
+#main h1 + p strong {
+  display: none;
+}
+#main h1 + p a {
+  display: block;
+  font-size: 11pt;
+  line-height: 14pt;
+  margin-top: 8pt;
+}
+#main h1 + p a:link {
+  color: #fff;
+  text-decoration: none;
+}
+#main h1 + p a:hover {
+  text-decoration: underline;
+}
+#main #skills,
+#main #skills + blockquote,
+#main #tools,
+#main #tools + blockquote {
+  position: absolute;
+  left: 0.25in;
+  top: 4in;
+  width: 1.75in;
+  margin: 0;
+  color: rgba(255, 255, 255, 0.8);
+}
+#main #skills + blockquote,
+#main #tools + blockquote {
+  padding-top: 8pt;
+}
+#main #tools,
+#main #tools + blockquote {
+  top: 7.25in;
+}
+#main h3 {
+  position: relative;
+}
+#main h3 em {
+  position: absolute;
+  right: 0;
+}
