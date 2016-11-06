@@ -6,24 +6,27 @@ body {
   height: 100%;
 }
 #main {
+  position: relative;
   display: flex;
   width: 8.5in;
-  padding: 0.125in 0.125in;
+  padding: 0.25in 0.25in;
+  min-height: 11in;
 }
 #main #sidebar {
   margin-top: 32pt;
-  min-width: 2in;
-  max-width: 2in;
+  min-width: 1.95in;
+  max-width: 1.95in;
   background-color: #0072bc;
 }
 #main #content {
-  margin: 19pt 0 0 0.125in;
+  max-width: 5.29in;
+  margin: 19pt 0 0 0.25in;
 }
 #main h1 {
   position: absolute;
-  left: 0.125in;
-  top: 0.5pt;
-  width: 2in;
+  left: 0.25in;
+  top: 10pt;
+  width: 1.95in;
   text-align: center;
 }
 #main h1 strong {
@@ -32,27 +35,26 @@ body {
   font-size: 32pt;
   line-height: 32pt;
   font-weight: bold;
-  width: 2in;
-  letter-spacing: 2.5pt;
+  width: 1.95in;
+  margin-bottom: 0;
 }
 #main h1 strong:nth-child(1) {
-  text-indent: 10pt;
-  letter-spacing: 6pt;
   color: #0072bc;
-  text-shadow: 0 0 5pt rgba(255, 255, 255, 0.5);
+  letter-spacing: -0.5pt;
 }
 #main h1 strong:nth-child(2) {
   color: #fff;
-  margin-top: -2pt;
+  letter-spacing: 2.5pt;
+  margin-top: -10pt;
 }
 #main h1 em {
   display: none;
 }
 #main h1 + p {
   position: absolute;
-  left: 0.125in;
-  top: 1in;
-  width: 2in;
+  left: 0.25in;
+  top: 1.5in;
+  width: 1.95in;
   text-align: center;
 }
 #main h1 + p strong {
@@ -64,31 +66,66 @@ body {
   line-height: 14pt;
   margin-top: 8pt;
 }
-#main h1 + p a:link {
+#main h1 + p a:link,
+#main h1 + p a:visited {
   color: #fff;
   text-decoration: none;
 }
 #main h1 + p a:hover {
   text-decoration: underline;
 }
+#main h2 {
+  color: #0072bc;
+  text-transform: lowercase;
+}
+#main h2,
+#main h3,
+#main h4,
+#main blockquote {
+  margin-bottom: 4pt;
+}
+#main h2 + p,
+#main h2 + h3,
+#main h2 + h4,
+#main h3 + h4,
+#main h4 + ol,
+#main h4 + ul,
+#main h4 + blockquote,
+#main h4 + blockquote p {
+  margin-bottom: 4pt;
+  margin-top: 4pt;
+}
+#main h4 + blockquote {
+  margin-left: 0;
+}
 #main #skills,
-#main #skills + blockquote,
-#main #tools,
-#main #tools + blockquote {
+#main #skills + ul,
+#main #languages,
+#main #languages + ul {
   position: absolute;
-  left: 0.25in;
-  top: 4in;
-  width: 1.75in;
+  left: 0.375in;
+  width: 1.7in;
   margin: 0;
-  color: rgba(255, 255, 255, 0.8);
+  color: #ffffff;
 }
-#main #skills + blockquote,
-#main #tools + blockquote {
+#main #skills {
+  bottom: 2.8in;
+}
+#main #skills + ul {
+  bottom: 1.5in;
+}
+#main #languages {
+  bottom: 1.05in;
+}
+#main #languages + ul {
+  bottom: 0.4in;
+}
+#main #skills + ul,
+#main #languages + ul {
+  margin: 0;
+  list-style: none;
+  padding: 0;
   padding-top: 8pt;
-}
-#main #tools,
-#main #tools + blockquote {
-  top: 7.25in;
 }
 #main h3 {
   position: relative;
@@ -96,4 +133,5 @@ body {
 #main h3 em {
   position: absolute;
   right: 0;
+  font-weight: normal;
 }
