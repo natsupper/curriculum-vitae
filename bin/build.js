@@ -21,7 +21,7 @@ app.
   version(pkgInfo.version).
   option('-w, --watch', 'watch the files in source and rebuild when they change').
   option('-s, --source [PATH]', 'path to the source directory [./]', './').
-  option('-d, --destination [PATH]', 'path to the destination directory [./]', './site');
+  option('-d, --destination [PATH]', 'path to the destination directory [./]', './');
 
 let watcher = null;
 
@@ -30,6 +30,7 @@ const configure = opts =>
   metadata({ author: pkgInfo.author }).
   source(opts.source).
   destination(opts.destination).
+  clean(false).
   use((files, ms, done) => {
     keys(files).
       forEach(filepath => {
@@ -58,6 +59,11 @@ const configure = opts =>
     done();
   }).
   use(markdown()).
+  use((files, ms, done) => {
+    files['index.html'] = files['README.html'];
+    delete files['README.html'];
+    done();
+  }).
   use(layouts({
     engine:    'ejs',
     directory: 'template',
