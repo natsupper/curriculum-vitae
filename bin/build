@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+
+export NODE_PATH=.:./lib
+
+SCRIPT_DIR=$( cd $( dirname $0 ) && pwd );
+
+export PROJECT_DIR=$( dirname $SCRIPT_DIR );
+
+node -r babel-register $SCRIPT_DIR/build.js $@

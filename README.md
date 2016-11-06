@@ -1,11 +1,10 @@
-Jerry Hamlet: *Señor UI Engineer*
-=================================
+**Jerry** **Hamlet** *Señor UI Engineer*
+========================================
 
 **Contact:**
-[cell: 1.510.432.4317](tel:+15104324317) | 
-[email: jerry@hamletzone.com](mailto:jerry@hamletzone.com) | 
-[linkedin:
-http://www.linkdedin.com/in/jerryhamlet](http://www.linkdedin.com/in/jerryhamlet)
+[jerry@hamletzone.com](mailto:jerry@hamletzone.com) 
+[+1.510.432.4317](tel:+15104324317) 
+[linkedin](http://www.linkdedin.com/in/jerryhamlet)
 
 Summary
 -------
@@ -44,7 +43,7 @@ creating thoughtful, well-reasoned solutions.
 Experience
 ----------
 
-### Senior UI Enginer, TVUI Discovery Experience -- *2010 to Current*
+### Senior UI Enginer, TVUI Discovery Experience *2010 to Current*
 
 #### [Netlfix, Los Gatos, CA](http://netflix.com)
 
@@ -77,7 +76,7 @@ boxes, and game consoles, all over the world.
     continued growth in new regions.
 
 
-### Senior Web Monkey -- *2009 to 2010*
+### Senior Web Monkey *2009 to 2010*
 
 #### [Gaia Interactive, San Jose, CA](http://gaiaonline.com)
 
@@ -86,7 +85,7 @@ with streamlining their legacy code with standards-compliant, cross-browser
 HTML, lean JavaScript, and CSS.
 
 
-### Senior Web Monkey -- *2009*
+### Senior Web Monkey *2009*
 
 #### [Tiny Prints, Mountain View, CA](http://tinyprints.com)
 
@@ -94,7 +93,7 @@ Evangelized JavaScript and Web UI Engineering best practices with their team,
 to optimize their growing, on-line, personalized greeting card experience.
 
 
-### Senior Web Developer, International Search -- *2007 to 2009*
+### Senior Web Developer, International Search *2007 to 2009*
 
 #### [Yahoo!, Santa Clara, CA](http://search.yahoo.com)
 
@@ -117,7 +116,7 @@ developers enhancing and maintaining the Yahoo! Search experience.
     Search platform.
 
 
-### Designer & Lead Programmer -- *2004 to 2007*
+### Designer & Lead Programmer *2004 to 2007*
 
 #### [BIG Design, Inc., Fremont, CA](http://bigdesign.com)
 
@@ -148,7 +147,7 @@ projects in web design, animation, and programming.
         sites.
 
 
-### Freelance Designer & Web Developer -- *2001 to 2004*
+### Freelance Designer & Web Developer *2001 to 2004*
 
 #### Self Employed, Bay Area, CA
 
@@ -157,7 +156,7 @@ intranets and promotional materials. Provided graphic design, Flash animation,
 programming and internet marketing services.
 
 
-### Lead Web Developer -- *2000 to 2001*
+### Lead Web Developer *2000 to 2001*
 
 #### Halleck, Inc., Palo Alto, CA
 
@@ -176,7 +175,7 @@ intranet servers.
     Site-of-the-Day*.
 
 
-### Graphic & Web Production Specialist -- *1997 to 2000*
+### Graphic & Web Production Specialist *1997 to 2000*
 
 #### Aquent, Santa Clara, CA
 
