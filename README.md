@@ -10,7 +10,7 @@ Summary
 -------
 
 I am an **applied physicist** who has transitioned to the exciting world of
-**data science**.
+**test automation**.
 
 Over 15 years I drove many fundamental improvements in electronics hardware,
 resulting in **20 patents, 15 publications** and an invitation to join the
