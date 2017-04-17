@@ -93,8 +93,9 @@ Skills
 * Python
 * SQL
 * Linux
-* MS Office
-* Outstanding communcation and presentation abilities
+* docker
+* MongoDB
+* Cloudera
 
 Languages
 ---------
