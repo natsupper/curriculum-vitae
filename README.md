@@ -10,28 +10,28 @@ Summary
 -------
 
 I am an **applied physicist** who has transitioned to the exciting world of
-**test automation**.
+**software test automation**.
 
 Over 15 years I drove many fundamental improvements in electronics hardware,
 resulting in **20 patents, 15 publications** and an invitation to join the
 **National Academy of Engineers**.
 
-I did this largely by developing new ways to **explore testing data**, and with
-the recent growth of **Big Data** I made the switch to focus on analytics full
-time.
+I did this largely by developing new ways to **test and explore data**, and
+with the recent growth of **cloud computing** I made the switch to focus on
+testing software applications full time.
 
-I use the tools of **machine learning** and **data science**, but I am also
-keenly aware of how they tie back to the **real-world processes** that generate
-the data and inform any **analysis**.
+I develop and automate test scenarios that are modular and flexible to apply to
+all our applications. This has improved our test coverage and efficiency by
+100%.
 
 Experience
 ----------
 
-### Software Test/Analytics Engineer _2015 – 2016_
+### Software Test/Analytics Engineer _2015 – 2017_
 
 #### Robin Systems, A Big Data Startup
 
-* Analytics, software engineering, and algorithm development.
+* Analytics, QA engineering, and test automation.
 * Designed and implemented a flexible framework in python to query cluster
   performance and visualize those metrics for rapid Quality of Service analysis.
 * After a demonstration of its utility, and flexibility, it is now a core part
@@ -93,8 +93,9 @@ Skills
 * Python
 * SQL
 * Linux
-* MS Office
-* Outstanding communcation and presentation abilities
+* docker
+* MongoDB
+* Cloudera
 
 Languages
 ---------
