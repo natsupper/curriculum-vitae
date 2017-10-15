@@ -27,7 +27,7 @@ all our applications. This has improved our test coverage and efficiency by
 Experience
 ----------
 
-### Software Test/Analytics Engineer _2015 – 2017_
+### Software Test/Analytics Engineer _2015 – present_
 
 #### Robin Systems, A Big Data Startup
 
