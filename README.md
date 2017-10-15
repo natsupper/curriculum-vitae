@@ -27,7 +27,7 @@ the data and inform any **analysis**.
 Experience
 ----------
 
-### Software Test/Analytics Engineer _2015 – 2016_
+### Software Test/Analytics Engineer _2015 – present_
 
 #### Robin Systems, A Big Data Startup
 
