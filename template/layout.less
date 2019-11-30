@@ -17,15 +17,18 @@ html, body {
   min-height: 11in;
 
   #sidebar {
-    margin-top: 32pt;
-    min-width: @sideWidth;
-    max-width: @sideWidth;
     background-color: @sideColor;
+    height: 28pt;
+    left: 0;
+    margin-top: 32pt;
+    max-width: 8.5in;
+    position: fixed;
+    right: 0;
   }
 
   #content {
-    max-width: 5.29in;
-    margin: 19pt 0 0 0.25in;
+    max-width: 7in;
+    margin: 56pt 0.5in 0.5in 24pt;
   }
 
   h1 {
@@ -60,22 +63,15 @@ html, body {
   h1 em { display: none; }
 
   h1 + p {
-    position: absolute;
-    left: @pageMargin;
-    top: 1.5in;
-    width: @sideWidth;
-    text-align: center;
-
+    position: fixed;
+    left: 5.25in;
+    top: 0.4in;
     strong { display: none; }
-
     a {
-      display: block;
-      font-size: 11pt;
-      line-height: 14pt;
-      margin-top: 8pt;
-
-      &:link, &:visited { color: #fff; text-decoration: none; }
-      &:hover { text-decoration: underline; }
+      display: inline-block;
+      margin-right: 8pt;
+      &:link, &:visited { color: @sideColor; text-decoration: none; }
+      &:hover { color: @sideColor; text-decoration: underline; }
     }
   }
 
@@ -86,6 +82,10 @@ html, body {
 
   h2, h3, h4, blockquote {
     margin-bottom: 4pt;
+  }
+
+  h3, h4, blockquote {
+    margin-left: 8pt;
   }
 
   h2 + p,
@@ -100,43 +100,32 @@ html, body {
     margin-top: 4pt;
   }
 
-  h4 + blockquote {
-    margin-left: 0;
-  }
-
-  #skills,
-  #skills + ul,
-  #languages,
-  #languages + ul {
-    position: absolute;
-    left: @pageMargin + 0.125in;
-    width: @sideWidth - (2 * 0.125in);
-    margin: 0;
-    color: rgba(255, 255, 255, 1);
-  }
-
-  #skills {
-    bottom: 2.8in;
-  }
-
-  #skills + ul {
-    bottom: 1.5in;
-  }
-
-  #languages {
-    bottom: 1.05in;
-  }
-
-  #languages + ul {
-    bottom: 0.4in;
+  h2#summary + p,
+  h2#summary + p + p,
+  h2#summary + p + p + p, 
+  h2#summary + p + p + p + p {
+    margin-left: 8pt;
+    text-align: justify;
   }
 
   #skills + ul,
   #languages + ul {
-    margin: 0;
     list-style: none;
+    margin: 0;
     padding: 0;
-    padding-top: 8pt;
+  }
+
+  #skills + ul li,
+  #languages + ul li {
+    display: inline-block;
+  }
+
+  #skills + ul li:after {
+    content: ",";
+  }
+
+  #languages + ul li:after {
+    content: ";";
   }
 
   h3 {
@@ -144,7 +133,7 @@ html, body {
 
     em {
       position: absolute;
-      right: 0;
+      right: 8pt;
       font-weight: normal;
     }
   }

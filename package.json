@@ -5,8 +5,8 @@
   "scripts": {
     "build": "./bin/build run",
     "watch": "./bin/build -w run",
-    "serve": "./node_modules/.bin/list ./",
-    "start": "npm run watch && npm run serve"
+    "serve": "./node_modules/.bin/list --cache 0 --unzipped --port 8000 ./",
+    "start": "npm run build && npm run serve"
   },
   "repository": {
     "type": "git",
