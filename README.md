@@ -20,12 +20,10 @@ Experience
 
 ### New.Degree, The LAUDA Innovation Lab 
 
-* Defined an Innovation Program Structure for the LAUDA group.
 * Developed Processes and Metrics to identify, Evaluate and Grow Innovations. 
-* Using Lean Startup Principles and Methodologies as a guide, User Validation techniques  were incorporated in our Innovation Blueprint which I 
-  transfered to the core groups and is  now part of the Innovation training for all units.
-* Applying Design Thinking and Ideation techniques, I led my team to  explore different paths were our core technology could be utilized.
-* Using these tools, I led my team from concept idea to final Build of a Small, Portable Cooling Unit in  10 months. ( including two pivots guided by user feedback)
+* Using Lean Startup Principles, I incorporated User Validation techniques in our Innovation Blueprint which lead us to developing new features to meet our user needs.
+* Applying Design Thinking and Ideation techniques, I worked with Cross functional teams to  explore different paths were our core technology could be improved.
+* Using these tools, I led my team from concept idea to final Build of a Small, Portable Cooling Unit  for Insulin in  10 months. ( including two pivots guided by user feedback)
 * The unit is now in the hands of users for real life testing, so far, it surpassed all its expected performances.
 
 ### Software Test/Analytics Engineer _2015 --2018_
@@ -34,8 +32,7 @@ Experience
 
 * Designed and Implemented a Visualization Framework in Python to enhance User experience.
 * Using Analytics and test automation  to query the  Clusters  and visualize the performance Metrics for rapid Quality of Service Analysis.
-* After a demonstration of its utility, and flexibility, it is now a core part
-  of the product deployed to customers.
+* After a demonstration of its utility, and flexibility, it is now a core part of the product deployed to customers.
 
 
 ### Principal Engineer/Scientist -- Research _2011 -- 2015_
@@ -87,24 +84,6 @@ request.
 
 
 
-Skills
-------
-
-* Innovation management
-* Cross Functional Team Leadership
-* Product Management
-* Test Engineering
-* Data Analysis
-* Python
-* SQL
 
 
-
-Languages
----------
-
-* French, native
-* English, fluent
-* Spanish, conversational
-* German, conversational
 
