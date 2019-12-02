@@ -1,44 +1,44 @@
-**Natacha** **Supper** *Engineer/Scientist*
+**Natacha** **Supper** *Director of Awesomeness*
 ===========================================
 
 **Contact:**
 [nsupper@yahoo.com](mailto:nsupper@yahoo.com) 
 [+1.408.829.5287](tel:+14088295287) 
-[linkedin](https://www.linkedin.com/in/natacha-supper-72802b1)
+[linkedin](https://www.linkedin.com/in/natacha-s-72802b1/)
 
 Summary
 -------
+I am an ** Applied Physicist** who has Transitioned to the World of Product and Innovation Management.
+To Bring Innovative Products to life, I Use my Knowledge of Technology, **Excellent Analytical Skills**, Combined with my **Outstanding People and Communication Skills**.
+I Have Driven Many **Innovation** in Hardware and Software, Resulting in **20 Patents**, 15 Peer Reviewed Publications .
+Enabling the Right Connections Between Teams to Build Products that People and Businesses Love is My Passion.
 
-I am an **applied physicist** who has transitioned to the exciting world of
-**software test automation**.
-
-Over 15 years I drove many fundamental improvements in electronics hardware,
-resulting in **20 patents, 15 publications** and an invitation to join the
-**National Academy of Engineers**.
-
-I did this largely by developing new ways to **test and explore data**, and
-with the recent growth of **cloud computing** I made the switch to focus on
-testing software applications full time.
-
-I develop and automate test scenarios that are modular and flexible to apply to
-all our applications. This has improved our test coverage and efficiency by
-100%.
 
 Experience
 ----------
+### Director Innovation Lab   _2018 -- present_
 
-### Software Test/Analytics Engineer _2015 – present_
+### New.Degree, The LAUDA Innovation Lab 
+
+* Defined an Innovation Program Structure for the LAUDA group.
+* Developed Processes and Metrics to identify, Evaluate and Grow Innovations. 
+* Using Lean Startup Principles and Methodologies as a guide, User Validation techniques  were incorporated in our Innovation Blueprint which I 
+  transfered to the core groups and is  now part of the Innovation training for all units.
+* Applying Design Thinking and Ideation techniques, I led my team to  explore different paths were our core technology could be utilized.
+* Using these tools, I led my team from concept idea to final Build of a Small, Portable Cooling Unit in  10 months. ( including two pivots guided by user feedback)
+* The unit is now in the hands of users for real life testing, so far, it surpassed all its expected performances.
+
+### Software Test/Analytics Engineer _2015 --2018_
 
 #### Robin Systems, A Big Data Startup
 
-* Analytics, QA engineering, and test automation.
-* Designed and implemented a flexible framework in python to query cluster
-  performance and visualize those metrics for rapid Quality of Service analysis.
+* Designed and Implemented a Visualization Framework in Python to enhance User experience.
+* Using Analytics and test automation  to query the  Clusters  and visualize the performance Metrics for rapid Quality of Service Analysis.
 * After a demonstration of its utility, and flexibility, it is now a core part
   of the product deployed to customers.
 
 
-### Principal Engineer/Scientist — Research _2011 – 2015_
+### Principal Engineer/Scientist -- Research _2011 -- 2015_
 
 #### HGST, A Western Digital Company
 
@@ -48,7 +48,7 @@ Experience
 * Transitioned improved testing procedures to production.
 
 
-### Senior Engineer/Scientist — Advanced Technology _2003 – 2011_
+### Senior Engineer/Scientist -- Advanced Technology _2003 -- 2011_
 
 #### Hitachi Global Storage Technologies
 
@@ -59,7 +59,7 @@ Experience
   media.
 
 
-### Advisory Engineer/Scientist — Research _2000 – 2003_
+### Advisory Engineer/Scientist -- Research _2000 -- 2003_
 
 #### IBM Almaden Research
 
@@ -75,27 +75,30 @@ Experience
 Education
 ---------
 
-#### M.S. Physics — _San Jose State University_
+#### M.S. Physics -- _San Jose State University_
 
 > Thesis: fingerprint scanner using a holographic optical element.
 
-#### B.S. Physics — _Université Pierre et Marie Curie (Paris VI)_
+#### B.S. Physics -- _Universitée Pierre et Marie Curie (Paris VI)_
 
 Additional experience, education, and publications available on
 [linkedin](https://www.linkedin.com/pub/natacha-supper/1/2b/728), or upon
 request.
 
 
+
 Skills
 ------
 
-* Applied Physics
+* Innovation management
+* Cross Functional Team Leadership
+* Product Management
+* Test Engineering
+* Data Analysis
 * Python
 * SQL
-* Linux
-* docker
-* MongoDB
-* Cloudera
+
+
 
 Languages
 ---------
