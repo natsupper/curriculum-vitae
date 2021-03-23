@@ -1,4 +1,4 @@
-**Natacha** **Supper** *Director of Awesomeness*
+**Natacha** **Supper** *Director of Innovation*
 ===========================================
 
 **Contact:**
@@ -8,19 +8,20 @@
 
 Summary
 -------
-I am an ** Applied Physicist** who has Transitioned to the World of Product and Innovation Management.
-To Bring Innovative Products to life, I Use my Knowledge of Technology, **Excellent Analytical Skills**, Combined with my **Outstanding People and Communication Skills**.
-I Have Driven Many **Innovation** in Hardware and Software, Resulting in **20 Patents**, 15 Peer Reviewed Publications .
-Enabling the Right Connections Between Teams to Build Products that People and Businesses Love is My Passion.
+I am an ** Applied Physicist** who has Transitioned to the World of **Product and Innovation** Management.
+I Successfully Bring Innovative ideas into  great Products,by Defining and Using Customer Centric Metrics.
+To Accomplish that, I Use my Knowledge of Technology, **Excellent Analytical Skills**, Combined with my **Outstanding People and Communication Skills**.
+I Have enjoyed Working with Cross Functional teams to Drive Many **Innovation** in Hardware and Software, Resulting in **20 Patents**, 15 Peer Reviewed Publications .
+
 
 
 Experience
 ----------
-### Director Innovation Lab   _2018 -- present_
+### Director Innovation Lab   _2018 -- 2020_
 
 ### New.Degree, The LAUDA Innovation Lab 
 
-* Developed Processes and Metrics to identify, Evaluate and Grow Innovations. 
+* Worked across Products Teams to Develop Processes and Metrics to identify, Evaluate and Grow Innovations. 
 * Using Lean Startup Principles, I incorporated User Validation techniques in our Innovation Blueprint which lead us to developing new features to meet our user needs.
 * Applying Design Thinking and Ideation techniques, I worked with Cross functional teams to  explore different paths were our core technology could be improved.
 * Using these tools, I led my team from concept idea to final Build of a Small, Portable Cooling Unit  for Insulin in  10 months. ( including two pivots guided by user feedback)
