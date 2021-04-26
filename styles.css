@@ -1,0 +1,133 @@
+html,
+body {
+  font-family: verdana;
+  font-size: 9pt;
+  margin: 0;
+  height: 100%;
+}
+#main {
+  position: relative;
+  display: flex;
+  width: 8.5in;
+  padding: 0.25in 0.25in;
+  min-height: 11in;
+}
+#main #sidebar {
+  background-color: #0072bc;
+  height: 28pt;
+  left: 0;
+  margin-top: 32pt;
+  max-width: 8.5in;
+  position: fixed;
+  right: 0;
+}
+#main #content {
+  max-width: 7in;
+  margin: 56pt 0.5in 0.5in 24pt;
+}
+#main h1 {
+  position: absolute;
+  left: 0.25in;
+  top: 10pt;
+  width: 1.95in;
+  text-align: center;
+}
+#main h1 strong {
+  display: block;
+  text-transform: lowercase;
+  font-size: 32pt;
+  line-height: 32pt;
+  font-weight: bold;
+  width: 1.95in;
+  margin-bottom: 0;
+}
+#main h1 strong:nth-child(1) {
+  color: #0072bc;
+  letter-spacing: -0.5pt;
+}
+#main h1 strong:nth-child(2) {
+  color: #fff;
+  letter-spacing: 2.5pt;
+  margin-top: -10pt;
+}
+#main h1 em {
+  display: none;
+}
+#main h1 + p {
+  position: fixed;
+  left: 5.25in;
+  top: 0.4in;
+}
+#main h1 + p strong {
+  display: none;
+}
+#main h1 + p a {
+  display: inline-block;
+  margin-right: 8pt;
+}
+#main h1 + p a:link,
+#main h1 + p a:visited {
+  color: #0072bc;
+  text-decoration: none;
+}
+#main h1 + p a:hover {
+  color: #0072bc;
+  text-decoration: underline;
+}
+#main h2 {
+  color: #0072bc;
+  text-transform: lowercase;
+}
+#main h2,
+#main h3,
+#main h4,
+#main blockquote {
+  margin-bottom: 4pt;
+}
+#main h3,
+#main h4,
+#main blockquote {
+  margin-left: 8pt;
+}
+#main h2 + p,
+#main h2 + h3,
+#main h2 + h4,
+#main h3 + h4,
+#main h4 + ol,
+#main h4 + ul,
+#main h4 + blockquote,
+#main h4 + blockquote p {
+  margin-bottom: 4pt;
+  margin-top: 4pt;
+}
+#main h2#summary + p,
+#main h2#summary + p + p,
+#main h2#summary + p + p + p,
+#main h2#summary + p + p + p + p {
+  margin-left: 8pt;
+  text-align: justify;
+}
+#main #skills + ul,
+#main #languages + ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#main #skills + ul li,
+#main #languages + ul li {
+  display: inline-block;
+}
+#main #skills + ul li:after {
+  content: ",";
+}
+#main #languages + ul li:after {
+  content: ";";
+}
+#main h3 {
+  position: relative;
+}
+#main h3 em {
+  position: absolute;
+  right: 8pt;
+  font-weight: normal;
+}
